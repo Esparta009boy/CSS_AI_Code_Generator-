@@ -19,7 +19,7 @@ Todos os códigos estão **comentados e organizados**, facilitando a compreensã
 
 ## 🌐 Acesse o Projeto  
 
-📎 [Clique aqui para visualizar o projeto online](https://seuusuario.github.io/CSS_AI_Code_Generator/)  
+📎 [Clique aqui para visualizar o projeto online](https://esparta009boy.github.io/CSS_AI_Code_Generator-/)  
 
 ---
 
@@ -54,7 +54,7 @@ Todos os códigos estão **comentados e organizados**, facilitando a compreensã
 
 1. Faça o download ou clone o repositório:  
    ```bash
-   git clone https://github.com/seuusuario/CSS_AI_Code_Generator
+   git clone https://esparta009boy.github.io/CSS_AI_Code_Generator-/
 
 
 
