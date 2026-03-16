@@ -15,6 +15,15 @@ O funcionamento é simples e poderoso:
 
 Todos os códigos estão **comentados e organizados**, facilitando a compreensão e integração em projetos reais.  
 
+## Link do vídeo explicativo de uso da aplicação via CHAVE DE API
+
+Este vídeo apresenta de forma clara e técnica a correção de uma falha no código relacionada à **chave de API** dentro do projeto **CSS Gerador com IA**.  
+Ao longo da explicação, são abordados os impactos da falha na aplicação e os procedimentos necessários para configurar corretamente a chave de API, garantindo o pleno funcionamento e aproveitamento dos recursos disponíveis.  
+
+Assistir até o final facilita a compreensão sobre como utilizar a aplicação de maneira eficiente e segura, reforçando boas práticas de integração com APIs em projetos que envolvem inteligência artificial e geração dinâmica de CSS.  
+
+🔗 [Vídeo explicativo – Correção e uso da aplicação via API](https://youtu.be/WQFPfmlivxQ)
+
 ---
 
 ## 🌐 Acesse o Projeto  
